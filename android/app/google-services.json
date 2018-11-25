@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "264495779710",
+    "firebase_url": "https://pool-a5767.firebaseio.com",
+    "project_id": "pool-a5767",
+    "storage_bucket": "pool-a5767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264495779710:android:42bf7c7bb9d239d1",
+        "android_client_info": {
+          "package_name": "com.akturk.poolresults"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264495779710-40flaaonngn5on2f5enbah4nql85re5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKNmmE11fBG_xXfNsQKcGVdAgoUyhT38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.poolresults;
+package com.akturk.poolresults;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
